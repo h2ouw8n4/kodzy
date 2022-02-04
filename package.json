@@ -1,9 +1,9 @@
 {
-  "name": "rewy-gatsby",
+  "name": "kodzy",
   "private": true,
-  "description": "Gatsby React IT Startup Template",
-  "version": "2.0.0",
-  "license": "0BSD",
+  "description": "Kodzy Web Site",
+  "version": "1.0.0",
+  "license": "UNLICENSED",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
@@ -40,9 +40,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-hello-world"
+    "url": "https://github.com/magicCashew/kodzy"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/magicCashew/kodzy/issues"
   }
 }
